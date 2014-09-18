@@ -19,7 +19,8 @@
         <xsl:value-of select="VehicleName"/>
       </xsl:attribute>
       <xsl:attribute name="Average">
-        <xsl:value-of select="Average"/>      </xsl:attribute>
+        <xsl:value-of select="Average"/>      
+      </xsl:attribute>
      
     </Vehicles>
   
