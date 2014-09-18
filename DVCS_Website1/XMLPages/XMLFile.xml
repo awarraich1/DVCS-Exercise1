@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Vehicles>
+  <Vehicle>
+    <VehicleId>20090</VehicleId>
+      <VehicleName>Corola</VehicleName>
+    <Average>18.66</Average>
+  </Vehicle>
+
+  <Vehicle>
+    <VehicleId>20091</VehicleId>
+      <VehicleName>Audi</VehicleName>
+    <Average>10.66</Average>
+  
+</Vehicle>
+
+  <Vehicle>
+    <VehicleId>20092</VehicleId>
+      <VehicleName>BMW</VehicleName>
+    <Average>17.00</Average>
+  </Vehicle>
+</Vehicles>
